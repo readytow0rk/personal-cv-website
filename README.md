@@ -9,8 +9,22 @@
 </p>
 
 <p align="center">
+  <a href="https://readytow0rk.github.io/personal-cv-website/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Live Website-Visit Now-brightgreen?style=for-the-badge" alt="Live Website"/>
+  </a>
+</p>
+
+<p align="center">
   A clean, responsive personal portfolio and CV website built with vanilla HTML, CSS, and JavaScript. Features live GitHub project integration, a contact form powered by EmailJS, downloadable CV, and a custom 404 page.
 </p>
+
+---
+
+## 🌐 Live Demo
+
+> **[https://readytow0rk.github.io/personal-cv-website/](https://readytow0rk.github.io/personal-cv-website/)**
+
+The site is hosted on **GitHub Pages** and is publicly accessible. All pages are fully functional including the live GitHub projects explorer.
 
 ---
 
